@@ -49,3 +49,5 @@ ROC-AUC:   89.9%
 Darun
 
 Github: https://github.com/Darun-18
+
+LinkedIn: www.linkedin.com/in/darunsuresh
