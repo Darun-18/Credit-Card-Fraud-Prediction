@@ -6,7 +6,9 @@ A Machine Learning web application that predicts whether a credit card transacti
 
 ## Live Demo
 
-Website Link: https://credit-card-fraud-prediction-98zqcnhec8gpasnrojfqqm.streamlit.app/
+Try this application here:
+
+https://credit-card-fraud-prediction-98zqcnhec8gpasnrojfqqm.streamlit.app/
 
 ## Features
 
