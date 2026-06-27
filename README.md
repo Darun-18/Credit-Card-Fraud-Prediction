@@ -45,6 +45,7 @@ Recall:    80%
 F1-score:  83%
 ROC-AUC:   89.9%
 
-## Screenshots
+## Author
+Darun
 
-(Add screenshots after deployment)
+Github: https://github.com/Darun-18
